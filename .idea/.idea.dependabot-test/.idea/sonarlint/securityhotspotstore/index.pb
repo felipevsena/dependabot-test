@@ -11,3 +11,5 @@ C
 dependabot-test.sln,d\f\df82c686a80ea946938e08456c62b4f755bac232
 V
 &dependabot-test/dependabot-test.csproj,f\2\f2f740ed9be8d340cbb6ff8edf3e566c57fe09f3
+L
+dependabot-test/package.json,f\7\f758d93bf515a109a5a871900707cb1c6b9c6320
