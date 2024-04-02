@@ -1,0 +1,14 @@
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\bin\Debug\net8.0\dependabot-test.exe
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\bin\Debug\net8.0\dependabot-test.deps.json
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\bin\Debug\net8.0\dependabot-test.runtimeconfig.json
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\bin\Debug\net8.0\dependabot-test.dll
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\bin\Debug\net8.0\dependabot-test.pdb
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.AssemblyInfoInputs.cache
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.AssemblyInfo.cs
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.csproj.CoreCompileInputs.cache
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.dll
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\refint\dependabot-test.dll
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.pdb
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\dependabot-test.genruntimeconfig.cache
+C:\Users\felipe.sena\RiderProjects\dependabot-test\dependabot-test\obj\Debug\net8.0\ref\dependabot-test.dll
