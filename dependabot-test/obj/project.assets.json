@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "HtmlAgilityPack/1.4.9": {
+      "HtmlAgilityPack/1.4.9.5": {
         "type": "package",
         "compile": {
           "lib/Net45/HtmlAgilityPack.dll": {
@@ -18,15 +18,15 @@
     }
   },
   "libraries": {
-    "HtmlAgilityPack/1.4.9": {
-      "sha512": "anZIsi7bbHZ35ZZzvCA+gVWC/mEXVhcJjJvxr3wzUEDsOE4uk0Fa0ZiaxVn83AZpVKVO4RHyqamPkzzJbMUgmQ==",
+    "HtmlAgilityPack/1.4.9.5": {
+      "sha512": "zk7zsIaPkyBvYoVDsnx52SbKtvcmo2bcgNBshhSG++RnHMYoh0dqxRuQSznY+w6luiqR35OiHTk1L73SUAGKLw==",
       "type": "package",
-      "path": "htmlagilitypack/1.4.9",
+      "path": "htmlagilitypack/1.4.9.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "HAPIcon.png",
-        "htmlagilitypack.1.4.9.nupkg.sha512",
+        "htmlagilitypack.1.4.9.5.nupkg.sha512",
         "htmlagilitypack.nuspec",
         "lib/Net20/HtmlAgilityPack.dll",
         "lib/Net20/HtmlAgilityPack.pdb",
@@ -48,10 +48,6 @@
         "lib/portable-net45+netcore45+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.dll",
         "lib/portable-net45+netcore45+wpa81+wp8+MonoAndroid+MonoTouch/HtmlAgilityPack.pdb",
-        "lib/sl3-wp/_._",
-        "lib/sl4/HtmlAgilityPack.XML",
-        "lib/sl4/HtmlAgilityPack.dll",
-        "lib/sl4/HtmlAgilityPack.pdb",
         "lib/sl5/HtmlAgilityPack.XML",
         "lib/sl5/HtmlAgilityPack.dll",
         "lib/sl5/HtmlAgilityPack.pdb",
@@ -61,7 +57,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "HtmlAgilityPack >= 1.4.9"
+      "HtmlAgilityPack >= 1.4.9.5"
     ]
   },
   "packageFolders": {
@@ -110,7 +106,7 @@
         "dependencies": {
           "HtmlAgilityPack": {
             "target": "Package",
-            "version": "[1.4.9, )"
+            "version": "[1.4.9.5, )"
           }
         },
         "imports": [
@@ -138,7 +134,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'HtmlAgilityPack 1.4.9' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'HtmlAgilityPack 1.4.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
       "libraryId": "HtmlAgilityPack",
       "targetGraphs": [
         "net8.0"

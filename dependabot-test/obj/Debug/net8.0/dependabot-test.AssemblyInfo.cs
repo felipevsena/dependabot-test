@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dependabot-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed07dba849be4599bed1541b390b6067e5b99429")]
 [assembly: System.Reflection.AssemblyProductAttribute("dependabot-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dependabot-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
