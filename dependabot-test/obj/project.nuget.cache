@@ -1,21 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HXcOKj+PZezxagf3rQWG+cnnW164g46JY5bxmhUS7sm7vaCq5FQiq7xVxu1vNLcd09sMUnqs18dmF+FQpV/SBQ==",
+  "dgSpecHash": "7ycZOld1YGVXhHPnEEKpnFwiw/uwazMI4PZK84Sgej35taSfNsJNU7qD8o0vFD3plBVMhn3OEYuHDS74di4h1w==",
   "success": true,
   "projectFilePath": "C:\\dependabot\\dependabot-test\\dependabot-test\\dependabot-test.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\felipe.sena\\.nuget\\packages\\htmlagilitypack\\1.4.9.5\\htmlagilitypack.1.4.9.5.nupkg.sha512"
+    "C:\\Users\\felipe.sena\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'HtmlAgilityPack 1.4.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "HtmlAgilityPack",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }
